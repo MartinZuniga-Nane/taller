@@ -1,0 +1,137 @@
+body{
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+}
+
+
+
+#tab{
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 0px;
+    margin: 10px;
+    display: inline;
+    
+}
+
+.icono{
+    display: inline;
+    border-color: #000000;
+}
+.menu{
+    display:inline;
+    color: #000000;
+}
+
+
+#furniro{
+    font-size: 70px;
+    display: inline;
+}
+#home{
+    display: inline;
+    color: #000000;
+    position: relative;
+    top: 00px;
+    left: -900px;
+    font-size: 30px;
+}
+
+#shop{
+    display: inline;
+    color: #000000;
+    position: relative;
+    top: 00px;
+    left: -800px;
+    font-size: 30px;
+}
+
+#about{
+    display: inline;
+    color: #000000;
+    position: relative;
+    top: 00px;
+    left: -700px;
+    font-size: 30px;
+}
+#contact{
+    display: inline;
+    color: #000000;
+    position: relative;
+    top: 00px;
+    left: -600px;
+    font-size: 30px;
+}
+
+.menu{
+    display: inline;
+    color: #000000;
+    position: relative;
+    top: 00px;
+    left: 1400px;
+    font-size: 30px;
+}
+
+#bloque{
+    display:block;
+    height: 300px;
+    width: 500px;
+    background-color: #f0e2d3;
+    top: 800px;
+    left: 500px;
+    font-size: 40px;
+}
+
+.wrap{
+    background: url(/Taller1/recursos/background.png);
+    width: 100;
+    height: 90vh;
+    display: flex;
+    background-position: center;
+}
+
+#wrap-texto{
+    height: 450px;
+    width: 900px;
+    background-color: #f0e2d3;
+    font-size: 30px;
+    text-align: left;
+}
+
+.container p{
+    height: 500px;
+    width: 1000px;
+    background-color: #f0e2d3;
+    position: relative;
+    font-size: 30px;
+    text-align: left;
+    top: 495px;
+    left: 1250px;
+    
+}
+
+div h2{
+    text-align: center;
+    font-size: 30px;
+    color: darkgray;
+}
+
+div h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+
+.alinear{
+    border-radius: 5%;
+    margin: 0 5px;
+}
+
+.container2{
+    display: flex;
+}
+
+.productos{
+    margin: 0 5px;
+    
+}
